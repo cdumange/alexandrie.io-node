@@ -1,0 +1,16 @@
+{
+  "name": "alexandrie.io.nodejs",
+  "version": "1.0.0",
+  "description": "Log sender library for alexandrie.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "c.dumange",
+  "license": "ISC",
+  "dependencies": {
+    "chcn.htmlhandler": "^1.0.5",
+    "mocha": "^5.1.1",
+    "socket.io-client": "^2.1.1"
+  }
+}
