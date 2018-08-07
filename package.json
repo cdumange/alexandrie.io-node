@@ -1,6 +1,6 @@
 {
-  "name": "alexandrie.io.nodejs",
-  "version": "1.0.0",
+  "name": "alexandrie.io-node",
+  "version": "1.0.2",
   "description": "Log sender library for alexandrie.io",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,8 @@
   "author": "c.dumange",
   "license": "ISC",
   "dependencies": {
-    "chcn.htmlhandler": "^1.0.5",
-    "mocha": "^5.1.1",
+    "chcn.htmlhandler": "^1.0.9",
+    "mocha": "^5.2.0",
     "socket.io-client": "^2.1.1"
   }
 }
